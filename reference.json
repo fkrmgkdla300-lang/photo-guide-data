@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "updated": "2026-11-21",
+  "scenes": {
+    "portrait": {
+      "name": "인물 감지",
+      "ev": 0,
+      "minShutter": 125,
+      "guide": "person",
+      "zoomHint": "인물 추천: 3×로 멀리서 찍으면 배경이 흐려져요",
+      "tip": "눈을 위쪽 3분할선에 맞추고 머리 위 여백은 조금만. 흔들리지 않게 셔터는 1/125초보다 빠르게 유지해요."
+    },
+    "portrait_backlight": {
+      "name": "인물 · 역광",
+      "ev": 0.7,
+      "minShutter": 125,
+      "guide": "person",
+      "zoomHint": "인물 추천: 3×로 배경을 흐리게",
+      "tip": "역광이라 노출을 +0.7 올렸어요. 해는 화면 구석에 두거나 사람 머리 뒤에 숨기면 얼굴이 덜 어두워져요."
+    },
+    "night_portrait": {
+      "name": "밤 인물",
+      "ev": 0,
+      "maxShutter": 30,
+      "guide": "person",
+      "zoomHint": "밤 인물: 1×가 가장 밝아요",
+      "tip": "찍는 동안 1~2초 움직이지 않게 해주세요. 가로등이나 간판 불빛 쪽을 보게 하면 얼굴이 밝아져요."
+    },
+    "pet": {
+      "name": "반려동물 · 움직임",
+      "ev": 0,
+      "minShutter": 500,
+      "guide": "thirds",
+      "zoomHint": "1×~3×, 눈높이까지 낮춰서",
+      "tip": "움직임이 많아 셔터를 1/500초로 빠르게 했어요. 폰을 눈높이까지 낮추고 눈에 초점을 맞추세요."
+    },
+    "food": {
+      "name": "음식",
+      "ev": 0.3,
+      "guide": "overhead",
+      "zoomHint": "1×로, 너무 가까우면 2×",
+      "tip": "평평한 음식은 위에서 90도, 버거·케이크처럼 높은 건 45도. 노출을 +0.3 올려 밝고 맛있게 보이게 했어요."
+    },
+    "night": {
+      "name": "야경",
+      "ev": -0.3,
+      "maxShutter": 15,
+      "guide": "horizon",
+      "zoomHint": "야경: 1×가 가장 밝아요",
+      "tip": "손으로 들 땐 셔터 1/15초까지만. 난간이나 벽에 폰을 대면 흔들림이 줄어요. 간판이 하얗게 날아가지 않게 노출을 살짝 낮췄어요."
+    },
+    "sunset": {
+      "name": "노을",
+      "ev": -0.7,
+      "guide": "horizon",
+      "zoomHint": "0.6×로 하늘을 넓게, 해만 크게 찍을 땐 5×",
+      "tip": "하늘 색이 진하게 나오도록 노출을 -0.7 낮췄어요. 수평선은 아래 1/3 선에 두세요."
+    },
+    "snow_beach": {
+      "name": "눈 · 해변",
+      "ev": 1.0,
+      "guide": "horizon",
+      "zoomHint": "0.6×로 넓게",
+      "tip": "밝은 배경 때문에 사진이 어두워지기 쉬워서 노출을 +1 올렸어요."
+    },
+    "backlight": {
+      "name": "역광",
+      "ev": 0.7,
+      "guide": "thirds",
+      "zoomHint": "",
+      "tip": "해를 넣을 땐 화면 구석에. 주인공이 너무 어두우면 해가 옆에 오도록 위치를 바꿔보세요."
+    },
+    "landscape": {
+      "name": "풍경",
+      "ev": 0,
+      "guide": "horizon",
+      "zoomHint": "0.6×로 넓게, 앞쪽에 바위·꽃을 넣으면 깊이감",
+      "tip": "수평을 맞추고, 하늘이 예쁘면 수평선을 아래 1/3, 땅이 예쁘면 위 1/3 선에 두세요."
+    },
+    "general": {
+      "name": "일반",
+      "ev": 0,
+      "guide": "thirds",
+      "zoomHint": "",
+      "tip": "주인공을 3분할선이 만나는 점에 두고 수평을 맞추세요."
+    }
+  },
+  "tips": [
+    {
+      "id": "base-portrait-legs",
+      "scene": "portrait",
+      "text": "전신은 폰을 허리~무릎 높이로 낮추고 발끝을 화면 아래 끝에 맞추면 다리가 길어 보여요",
+      "source": "기본 규칙",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "base-portrait-light",
+      "scene": "portrait",
+      "text": "얼굴 쪽으로 빛이 오게 서면 피부가 깨끗하게 나와요. 해를 등지면 역광이 돼요",
+      "source": "기본 규칙",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "base-food-props",
+      "scene": "food",
+      "text": "그릇을 가운데 원에 맞추고, 숟가락·컵 같은 소품을 화면 가장자리에 살짝 걸쳐보세요",
+      "source": "기본 규칙",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "base-landscape-lines",
+      "scene": "landscape",
+      "text": "길·다리·난간 같은 선이 화면 구석에서 주인공 쪽으로 들어오게 잡아보세요",
+      "source": "기본 규칙",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "base-night-reflection",
+      "scene": "night",
+      "text": "비 온 뒤 젖은 바닥에 비친 불빛을 같이 넣으면 야경이 풍성해져요",
+      "source": "기본 규칙",
+      "added": "2026-11-21"
+    }
+  ]
+}
