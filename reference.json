@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-11-21",
   "scenes": {
     "portrait": {
@@ -22,12 +22,12 @@
     },
     "night_portrait": {
       "name": "밤 인물",
-      "ev": 0,
+      "ev": -0.3,
       "maxShutter": 30,
       "guide": "person",
-      "zoom": 1,
-      "zoomHint": "밤 인물: 1×가 가장 밝아요",
-      "tip": "찍는 동안 1~2초 움직이지 않게 해주세요. 가로등이나 간판 불빛 쪽을 보게 하면 얼굴이 밝아져요."
+      "zoom": 2,
+      "zoomHint": "밤 인물: 뒤로 물러나 2~3×로 당기면 배경 불빛이 크게 번져요",
+      "tip": "몇 걸음 뒤로 가서 2~3×로 찍고, 얼굴은 세로 3분할선에. 조명이 날아가지 않게 노출을 살짝 낮췄어요. 찍는 동안 1~2초 움직이지 않게 해주세요."
     },
     "pet": {
       "name": "반려동물 · 움직임",
@@ -186,6 +186,90 @@
       "scene": "portrait_backlight",
       "text": "역광 인물은 렌즈 위를 손으로 살짝 가려 햇빛을 막으면 얼굴이 뿌옇게 뜨지 않고 또렷해져요",
       "source": "틱톡 user7855240006501 (사진 팁 영상)",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "ov-night-step-back",
+      "scene": "night_portrait",
+      "text": "가까이서 1×로 찍지 말고, 몇 걸음 뒤로 물러나 2~3× 줌으로 찍으세요. 배경 야경이 크게 당겨지고 불빛이 동그랗게 번져요",
+      "source": "틱톡 @oliver_travel_",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "ov-night-grid-face",
+      "scene": "night_portrait",
+      "text": "얼굴을 세로 3분할선에 맞추고 배경의 가장 밝은 건물은 반대쪽에 두세요",
+      "source": "틱톡 @oliver_travel_",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "ov-night-lower",
+      "scene": "night_portrait",
+      "text": "밝기를 살짝 낮춰서 찍으면 조명이 날아가지 않고 분위기가 진해져요",
+      "source": "틱톡 @oliver_travel_",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "ov-night-samsung",
+      "scene": "night_portrait",
+      "text": "[삼성 기본 카메라] 인물 사진 모드 + 야간 모드를 켜고 블러(흐림) 강도를 최대로 하면 배경 조명이 은은하게 번져요",
+      "source": "틱톡 @oliver_travel_",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "df-wide-center",
+      "scene": "landscape",
+      "text": "서점·복도처럼 양쪽이 대칭인 공간은 0.6× 초광각으로 통로 정중앙에 서서, 폰을 위아래로 기울이지 말고 똑바로 세우세요. 양쪽이 가운데로 모이며 공간이 웅장해져요",
+      "source": "틱톡 @drfilm_pics",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "df-wide-low",
+      "scene": "portrait",
+      "text": "0.6×로 전신을 찍을 땐 사람을 화면 가운데에 두고 폰을 허리 높이로 낮추세요. 가장자리에 두면 몸이 늘어나 보여요",
+      "source": "틱톡 @drfilm_pics",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "wm-exhibit-silhouette",
+      "scene": "general",
+      "text": "전시 작품은 정면으로 작품만 찍으면 인터넷에 흔한 사진이 돼요. 같이 간 사람을 작품 앞 한쪽에 세우고 뒤에서 2×로 당긴 뒤, 밝기를 조금 낮추면 실루엣 감성샷이 돼요",
+      "source": "틱톡 @3wolmilk",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "wm-exhibit-portrait",
+      "scene": "portrait",
+      "text": "작품·풍경을 바라보는 뒷모습은 사람이 대상을 살짝 가리게 서고, 밝기를 낮춰 사람을 실루엣으로 만들면 분위기가 살아요",
+      "source": "틱톡 @3wolmilk",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "jw-water-sparkle",
+      "scene": "landscape",
+      "text": "햇빛에 반짝이는 물결(윤슬)은 망원(5×)으로 물만 꽉 채우고, ISO는 가장 낮게, 셔터는 아주 빠르게(1/8000초 이상) 하면 반짝임 하나하나가 살아나요",
+      "source": "틱톡 @junnywhere",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "jw-water-sparkle-sunset",
+      "scene": "sunset",
+      "text": "해가 물에 비칠 땐 해는 빼고 물결만 5×로 잘라 담아보세요. 셔터를 아주 빠르게 하면 윤슬이 별처럼 찍혀요",
+      "source": "틱톡 @junnywhere",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "jw-tree-bokeh",
+      "scene": "night",
+      "text": "크리스마스 트리 같은 전구 장식은 정면에서 찍지 말고 작은 나무들 사이로 들어가 앞쪽 전구를 화면 가장자리에 걸치세요. 3~5× 줌으로 안쪽 트리에 맞추면 앞 전구가 동그랗게 번져요",
+      "source": "틱톡 @junnywhere",
+      "added": "2026-11-21"
+    },
+    {
+      "id": "jw-tree-dark",
+      "scene": "night",
+      "text": "전구가 많은 장면은 안쪽 트리를 눌러 초점을 맞추고 밝기를 낮추면 전구 빛이 또렷한 보케가 돼요",
+      "source": "틱톡 @junnywhere",
       "added": "2026-11-21"
     }
   ]
