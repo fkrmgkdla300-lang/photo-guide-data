@@ -1,0 +1,558 @@
+{
+ "version": 1,
+ "updated": "2026-11-25",
+ "refs": [
+  {
+   "id": "104674",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "tree",
+    "ornament",
+    "decoration",
+    "light",
+    "holiday"
+   ],
+   "tag": "주인공 크게",
+   "desc": "장식 하나를 왼쪽 위 3분할에 크게, 오른쪽 아래 전구 하나로 균형. 나머지는 어둡게.",
+   "img": "refs/img/104674.jpg",
+   "source": "https://www.pexels.com/photo/104674/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "15380962",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "tree",
+    "ornament",
+    "decoration",
+    "light",
+    "holiday"
+   ],
+   "tag": "배경 흐림",
+   "desc": "가로. 오른쪽에 하얀 가지를 걸치고 왼쪽 2/3는 트리 전구 빛망울로 비움.",
+   "img": "refs/img/15380962.jpg",
+   "source": "https://www.pexels.com/photo/15380962/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1721089",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "tree",
+    "ornament",
+    "decoration",
+    "light",
+    "holiday"
+   ],
+   "tag": "주인공 중앙",
+   "desc": "투명 장식 하나를 정중앙에, 뒤는 색색 빛망울로 꽉 채움. 바짝 다가가서 찍기.",
+   "img": "refs/img/1721089.jpg",
+   "source": "https://www.pexels.com/photo/1721089/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "3303615",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "tree",
+    "ornament",
+    "decoration",
+    "light",
+    "holiday"
+   ],
+   "tag": "화면 가득",
+   "desc": "리본과 빨간 공이 화면을 가득. 어두운 배경에 빨강만 살림. 아주 가까이.",
+   "img": "refs/img/3303615.jpg",
+   "source": "https://www.pexels.com/photo/3303615/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "5467045",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "tree",
+    "ornament",
+    "decoration",
+    "light",
+    "holiday"
+   ],
+   "tag": "미니멀",
+   "desc": "손으로 장식을 들고 흰 배경에 작게. 여백 70%로 깔끔하게.",
+   "img": "refs/img/5467045.jpg",
+   "source": "https://www.pexels.com/photo/5467045/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "5959473",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "tree",
+    "ornament",
+    "decoration",
+    "light",
+    "holiday"
+   ],
+   "tag": "주인공 작게",
+   "desc": "가로. 인형을 중앙 아래에 작게, 위 절반은 금색 빛망울. 낮은 각도.",
+   "img": "refs/img/5959473.jpg",
+   "source": "https://www.pexels.com/photo/5959473/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "11826875",
+   "scene": "night_portrait",
+   "keywords": [],
+   "tag": "네온 옆얼굴",
+   "desc": "인물은 화면 아래 절반, 위로 고개를 든 옆모습. 위쪽 네온 간판이 배경.",
+   "img": "refs/img/11826875.jpg",
+   "source": "https://www.pexels.com/photo/11826875/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "12063992",
+   "scene": "night_portrait",
+   "keywords": [],
+   "tag": "인물 아래 빛 위",
+   "desc": "인물을 아래 절반 중앙에, 위쪽은 가로등 빛망울을 크게. 푸른 밤 톤.",
+   "img": "refs/img/12063992.jpg",
+   "source": "https://www.pexels.com/photo/12063992/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "19334775",
+   "scene": "night_portrait",
+   "keywords": [],
+   "tag": "도시 야경",
+   "desc": "인물은 오른쪽 3분할에 작게, 고개 젖힘. 파란 조명 건물이 배경.",
+   "img": "refs/img/19334775.jpg",
+   "source": "https://www.pexels.com/photo/19334775/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "24811469",
+   "scene": "night_portrait",
+   "keywords": [],
+   "tag": "빛망울 배경",
+   "desc": "인물 상반신을 중앙 아래에, 배경은 가게 불빛 빛망울로 가득. 얼굴은 빛 쪽으로.",
+   "img": "refs/img/24811469.jpg",
+   "source": "https://www.pexels.com/photo/24811469/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "30674363",
+   "scene": "night_portrait",
+   "keywords": [],
+   "tag": "황혼 미소",
+   "desc": "가슴 위까지 가깝게, 얼굴은 오른쪽 위 3분할. 뒤는 노을과 도시 불빛.",
+   "img": "refs/img/30674363.jpg",
+   "source": "https://www.pexels.com/photo/30674363/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "31530937",
+   "scene": "night_portrait",
+   "keywords": [],
+   "tag": "어두운 골목",
+   "desc": "인물을 오른쪽 아래에 비스듬히, 왼쪽은 어둠과 먼 가로등으로 여백.",
+   "img": "refs/img/31530937.jpg",
+   "source": "https://www.pexels.com/photo/31530937/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "17823747",
+   "scene": "backlight_portrait",
+   "keywords": [],
+   "tag": "햇살 얼굴",
+   "desc": "옆으로 돌아선 상반신, 햇빛이 얼굴 한쪽에. 뒤는 흐린 초록.",
+   "img": "refs/img/17823747.jpg",
+   "source": "https://www.pexels.com/photo/17823747/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1879864",
+   "scene": "backlight_portrait",
+   "keywords": [],
+   "tag": "역광 실루엣",
+   "desc": "가로. 인물 옆모습을 중앙에, 해가 얼굴 앞에 살짝. 아래 절반은 까맣게.",
+   "img": "refs/img/1879864.jpg",
+   "source": "https://www.pexels.com/photo/1879864/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1906830",
+   "scene": "backlight_portrait",
+   "keywords": [],
+   "tag": "빛 줄무늬",
+   "desc": "얼굴을 화면 가득, 창가 빛이 눈과 입술에만 닿게. 나머지는 그림자.",
+   "img": "refs/img/1906830.jpg",
+   "source": "https://www.pexels.com/photo/1906830/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "30674285",
+   "scene": "backlight_portrait",
+   "keywords": [],
+   "tag": "골든아워 미소",
+   "desc": "가로. 얼굴을 오른쪽 3분할에, 해 질 녘 빛이 정면에서. 배경 거리 흐림.",
+   "img": "refs/img/30674285.jpg",
+   "source": "https://www.pexels.com/photo/30674285/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "33054757",
+   "scene": "backlight_portrait",
+   "keywords": [],
+   "tag": "그림자 놀이",
+   "desc": "벽에 비친 그림자와 꽃 하나만. 노란 햇빛 조각을 주인공으로.",
+   "img": "refs/img/33054757.jpg",
+   "source": "https://www.pexels.com/photo/33054757/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "40545881",
+   "scene": "backlight_portrait",
+   "keywords": [],
+   "tag": "역광 머리카락",
+   "desc": "상반신, 해가 머리 뒤에서 테두리를 빛나게. 얼굴은 밝게 보정.",
+   "img": "refs/img/40545881.jpg",
+   "source": "https://www.pexels.com/photo/40545881/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1170659",
+   "scene": "cafe",
+   "keywords": [
+    "coffee",
+    "cup",
+    "cafe",
+    "tableware",
+    "drink",
+    "latte"
+   ],
+   "tag": "45도 테이블",
+   "desc": "잔을 아래 중앙에 45도로, 뒤에 빵·화분을 흐리게 겹침.",
+   "img": "refs/img/1170659.jpg",
+   "source": "https://www.pexels.com/photo/1170659/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "14689178",
+   "scene": "cafe",
+   "keywords": [
+    "coffee",
+    "cup",
+    "cafe",
+    "tableware",
+    "drink",
+    "latte"
+   ],
+   "tag": "빛 한 줄기",
+   "desc": "어두운 테이블에 창빛 한 줄기가 잔에만. 위에서 비스듬히. 나머지는 어둡게.",
+   "img": "refs/img/14689178.jpg",
+   "source": "https://www.pexels.com/photo/14689178/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "29976667",
+   "scene": "cafe",
+   "keywords": [
+    "coffee",
+    "cup",
+    "cafe",
+    "tableware",
+    "drink",
+    "latte"
+   ],
+   "tag": "위에서 수직",
+   "desc": "탑뷰. 잔을 오른쪽 아래에, 왼쪽 위에 트레이 소품. 여백 넉넉히.",
+   "img": "refs/img/29976667.jpg",
+   "source": "https://www.pexels.com/photo/29976667/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "30095280",
+   "scene": "cafe",
+   "keywords": [
+    "coffee",
+    "cup",
+    "cafe",
+    "tableware",
+    "drink",
+    "latte"
+   ],
+   "tag": "눈높이 테이블",
+   "desc": "테이블 높이에서 잔을 아래 중앙에, 뒤로 창가와 의자를 흐리게.",
+   "img": "refs/img/30095280.jpg",
+   "source": "https://www.pexels.com/photo/30095280/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "30630942",
+   "scene": "cafe",
+   "keywords": [
+    "coffee",
+    "cup",
+    "cafe",
+    "tableware",
+    "drink",
+    "latte"
+   ],
+   "tag": "소매 넣기",
+   "desc": "탑뷰. 둥근 테이블 위 잔 + 아래에 니트 소매와 손. 사람 온기.",
+   "img": "refs/img/30630942.jpg",
+   "source": "https://www.pexels.com/photo/30630942/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "32064221",
+   "scene": "cafe",
+   "keywords": [
+    "coffee",
+    "cup",
+    "cafe",
+    "tableware",
+    "drink",
+    "latte"
+   ],
+   "tag": "잔 크게",
+   "desc": "잔을 화면 아래 절반 가득 크게, 위는 어두운 카페 내부 흐림.",
+   "img": "refs/img/32064221.jpg",
+   "source": "https://www.pexels.com/photo/32064221/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "20169223",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "plate",
+    "meal",
+    "cuisine",
+    "dessert"
+   ],
+   "tag": "탑뷰 테이블",
+   "desc": "가로. 둥근 테이블 전체를 위에서, 접시를 왼쪽에 크게, 소품은 오른쪽.",
+   "img": "refs/img/20169223.jpg",
+   "source": "https://www.pexels.com/photo/20169223/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "2878741",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "plate",
+    "meal",
+    "cuisine",
+    "dessert"
+   ],
+   "tag": "탑뷰 접시",
+   "desc": "접시를 중앙 살짝 아래에, 오일병·허브·포크를 가장자리에 흩뿌림. 나무 테이블.",
+   "img": "refs/img/2878741.jpg",
+   "source": "https://www.pexels.com/photo/2878741/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "3758039",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "plate",
+    "meal",
+    "cuisine",
+    "dessert"
+   ],
+   "tag": "손 넣기",
+   "desc": "가로 탑뷰. 접시 중앙, 손과 주스잔이 들어와 먹는 순간처럼.",
+   "img": "refs/img/3758039.jpg",
+   "source": "https://www.pexels.com/photo/3758039/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "9319287",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "plate",
+    "meal",
+    "cuisine",
+    "dessert"
+   ],
+   "tag": "여러 접시",
+   "desc": "탑뷰. 접시 여러 개를 대각선으로 배치, 라탄 매트로 질감.",
+   "img": "refs/img/9319287.jpg",
+   "source": "https://www.pexels.com/photo/9319287/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "11164637",
+   "scene": "pet",
+   "keywords": [
+    "cat",
+    "dog",
+    "pet",
+    "animal"
+   ],
+   "tag": "창 프레임",
+   "desc": "가로. 창틀 안에 고양이를 작게, 네온 파랑과 바깥 주황 대비.",
+   "img": "refs/img/11164637.jpg",
+   "source": "https://www.pexels.com/photo/11164637/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "19129325",
+   "scene": "pet",
+   "keywords": [
+    "cat",
+    "dog",
+    "pet",
+    "animal"
+   ],
+   "tag": "옆빛 어둠",
+   "desc": "고양이 상반신, 창빛이 한쪽에서. 배경은 어둡게, 눈은 위 3분할.",
+   "img": "refs/img/19129325.jpg",
+   "source": "https://www.pexels.com/photo/19129325/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "2071873",
+   "scene": "pet",
+   "keywords": [
+    "cat",
+    "dog",
+    "pet",
+    "animal"
+   ],
+   "tag": "올려다보기",
+   "desc": "높은 곳에서 아래로, 고양이가 위를 올려다봄. 밝고 화사하게.",
+   "img": "refs/img/2071873.jpg",
+   "source": "https://www.pexels.com/photo/2071873/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "2278093",
+   "scene": "pet",
+   "keywords": [
+    "cat",
+    "dog",
+    "pet",
+    "animal"
+   ],
+   "tag": "창가 전신",
+   "desc": "창가에 앉은 전신, 고양이 눈높이에서. 바라보는 쪽 공간 비우기.",
+   "img": "refs/img/2278093.jpg",
+   "source": "https://www.pexels.com/photo/2278093/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "31044662",
+   "scene": "pet",
+   "keywords": [
+    "cat",
+    "dog",
+    "pet",
+    "animal"
+   ],
+   "tag": "창빛 옆모습",
+   "desc": "옆모습, 바라보는 방향(오른쪽)에 공간. 창빛으로 털이 빛남.",
+   "img": "refs/img/31044662.jpg",
+   "source": "https://www.pexels.com/photo/31044662/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "34476541",
+   "scene": "pet",
+   "keywords": [
+    "cat",
+    "dog",
+    "pet",
+    "animal"
+   ],
+   "tag": "얼굴 가까이",
+   "desc": "가로. 얼굴을 왼쪽에 가깝게, 뒤는 밝은 흐림. 눈높이.",
+   "img": "refs/img/34476541.jpg",
+   "source": "https://www.pexels.com/photo/34476541/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "14935304",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "sun"
+   ],
+   "tag": "작은 사람 큰 하늘",
+   "desc": "사람은 아주 작게 아래 3분할, 하늘이 화면 2/3. 해는 왼쪽.",
+   "img": "refs/img/14935304.jpg",
+   "source": "https://www.pexels.com/photo/14935304/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "2260959",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "sun"
+   ],
+   "tag": "등 실루엣",
+   "desc": "앉은 뒷모습을 중앙에, 해가 머리 바로 뒤. 하늘 넓게.",
+   "img": "refs/img/2260959.jpg",
+   "source": "https://www.pexels.com/photo/2260959/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "22820119",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "sun"
+   ],
+   "tag": "나무와 사람",
+   "desc": "작은 나무 뒤에 해를 숨기고 옆에 사람. 구름 많은 하늘 위쪽.",
+   "img": "refs/img/22820119.jpg",
+   "source": "https://www.pexels.com/photo/22820119/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "31515218",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "sun"
+   ],
+   "tag": "해 잡기",
+   "desc": "가로. 사람 손 위에 해를 올려 착시. 화면은 붉게, 땅은 까맣게.",
+   "img": "refs/img/31515218.jpg",
+   "source": "https://www.pexels.com/photo/31515218/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "9748111",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "sun"
+   ],
+   "tag": "하늘 위주",
+   "desc": "인물 실루엣을 아래 왼쪽에, 위는 구름 노을로 가득.",
+   "img": "refs/img/9748111.jpg",
+   "source": "https://www.pexels.com/photo/9748111/",
+   "credit": "Pexels"
+  }
+ ]
+}
