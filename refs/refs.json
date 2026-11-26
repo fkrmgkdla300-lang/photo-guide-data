@@ -1,6 +1,6 @@
 {
- "version": 1,
- "updated": "2026-11-25",
+ "version": 2,
+ "updated": "2026-11-26",
  "refs": [
   {
    "id": "104674",
@@ -552,6 +552,350 @@
    "desc": "인물 실루엣을 아래 왼쪽에, 위는 구름 노을로 가득.",
    "img": "refs/img/9748111.jpg",
    "source": "https://www.pexels.com/photo/9748111/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1738964",
+   "scene": "snow",
+   "keywords": [
+    "snow",
+    "winter",
+    "tree",
+    "person",
+    "coat",
+    "sky"
+   ],
+   "tag": "눈 올려다보기",
+   "desc": "가로. 인물을 오른쪽 아래 1/3에 작게 두고 고개를 들어 눈을 맞는 순간. 왼쪽은 눈 내리는 침엽수 숲으로 흐리게 비움. 흐린 날 부드러운 빛, 폰은 가슴 높이에서 살짝 올려 찍기.",
+   "img": "refs/img/1738964.jpg",
+   "source": "https://www.pexels.com/photo/1738964/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "293029",
+   "scene": "snow",
+   "keywords": [
+    "snow",
+    "winter",
+    "tree",
+    "person",
+    "coat",
+    "sky"
+   ],
+   "tag": "눈 불기",
+   "desc": "가로. 손바닥 눈을 부는 얼굴을 오른쪽 1/3에 크게, 왼쪽으로 흩날리는 눈가루를 남김. 배경은 눈밭을 멀리 두어 흐리게. 연사로 날리는 순간을 잡기.",
+   "img": "refs/img/293029.jpg",
+   "source": "https://www.pexels.com/photo/293029/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "3409713",
+   "scene": "snow",
+   "keywords": [
+    "snow",
+    "winter",
+    "tree",
+    "person",
+    "coat",
+    "sky"
+   ],
+   "tag": "눈 맞은 옆모습",
+   "desc": "세로. 머리와 어깨에 눈이 쌓인 인물을 화면 아래쪽에 두고 얼굴은 오른쪽을 봄. 위쪽은 하얀 안개 배경으로 여백. 눈 오는 날 회색 하늘을 배경으로, 눈높이에서 인물 모드.",
+   "img": "refs/img/3409713.jpg",
+   "source": "https://www.pexels.com/photo/3409713/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "30577910",
+   "scene": "snow",
+   "keywords": [
+    "snow",
+    "winter",
+    "tree",
+    "person",
+    "coat",
+    "sky"
+   ],
+   "tag": "가로등 눈길",
+   "desc": "가로. 눈 덮인 밤길을 아래 1/3에, 오른쪽 가로등 불빛과 왼쪽 큰 나무로 프레임. 바퀴 자국이 안쪽으로 이끄는 선. 폰을 난간에 기대 야간 모드로 흔들림 없이.",
+   "img": "refs/img/30577910.jpg",
+   "source": "https://www.pexels.com/photo/30577910/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "10685536",
+   "scene": "snow",
+   "keywords": [
+    "snow",
+    "winter",
+    "tree",
+    "person",
+    "coat",
+    "sky"
+   ],
+   "tag": "서리 가지 접사",
+   "desc": "가로. 서리 낀 가지 하나를 오른쪽에 화면 가득, 왼쪽은 파란 그늘 숲으로 흐리게. 가지에 30cm까지 다가가 접사로 초점을 가지에 맞추기.",
+   "img": "refs/img/10685536.jpg",
+   "source": "https://www.pexels.com/photo/10685536/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "9362036",
+   "scene": "snow",
+   "keywords": [
+    "snow",
+    "winter",
+    "tree",
+    "person",
+    "coat",
+    "sky"
+   ],
+   "tag": "눈숲 전신",
+   "desc": "세로. 흰 털모자·니트 인물을 중앙에 무릎 위까지, 뒤는 눈 쌓인 어두운 나무로 흰 옷이 도드라짐. 눈높이보다 약간 낮게, 2배 줌으로 배경 압축.",
+   "img": "refs/img/9362036.jpg",
+   "source": "https://www.pexels.com/photo/9362036/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "12940622",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "candle",
+    "cup",
+    "light",
+    "decoration",
+    "holiday"
+   ],
+   "tag": "벽난로 머그",
+   "desc": "세로. 머그를 든 두 손을 오른쪽 아래에 두고 뒤 왼쪽은 주황 불꽃이 흐리게. 김이 보이게 어두운 배경 앞에서, 불빛이 옆에서 오게 찍기.",
+   "img": "refs/img/12940622.jpg",
+   "source": "https://www.pexels.com/photo/12940622/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1405520",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "candle",
+    "cup",
+    "light",
+    "decoration",
+    "holiday"
+   ],
+   "tag": "창가 촛불",
+   "desc": "가로. 창틀 위 촛불 하나를 가운데 아래에, 위와 양옆은 어두운 창 프레임으로 감쌈. 실내 불을 끄고 촛불만 켜서 노출을 어둡게 낮추기.",
+   "img": "refs/img/1405520.jpg",
+   "source": "https://www.pexels.com/photo/1405520/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "242422",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "candle",
+    "cup",
+    "light",
+    "decoration",
+    "holiday"
+   ],
+   "tag": "뒷모습 트리",
+   "desc": "가로. 오른쪽 1/3에 인물 뒷머리를 크게 걸치고 왼쪽에 빛나는 큰 트리와 군중. 인물 어깨 뒤에서 트리 쪽으로 찍어 트리 빛이 머리카락 테두리를 비추게.",
+   "img": "refs/img/242422.jpg",
+   "source": "https://www.pexels.com/photo/242422/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "3309669",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "candle",
+    "cup",
+    "light",
+    "decoration",
+    "holiday"
+   ],
+   "tag": "탑뷰 장갑 머그",
+   "desc": "가로. 흰 나무 바닥 위 빨간 장갑으로 감싼 머그를 오른쪽 1/3에, 왼쪽은 하얀 여백. 폰을 바닥과 평행하게 위에서 수직으로, 창가 자연광.",
+   "img": "refs/img/3309669.jpg",
+   "source": "https://www.pexels.com/photo/3309669/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "19578037",
+   "scene": "xmas",
+   "keywords": [
+    "christmas",
+    "candle",
+    "cup",
+    "light",
+    "decoration",
+    "holiday"
+   ],
+   "tag": "촛불 솔가지",
+   "desc": "가로. 촛불 두 개를 왼쪽 아래에 높이 다르게, 솔가지와 솔방울이 감싸고 배경은 새까맣게. 촛불만 켜고 노출을 낮춰 불꽃이 하얗게 날지 않게.",
+   "img": "refs/img/19578037.jpg",
+   "source": "https://www.pexels.com/photo/19578037/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "11872321",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "bowl",
+    "noodle",
+    "dessert",
+    "cake",
+    "plate"
+   ],
+   "tag": "그릇 꽉 채우기",
+   "desc": "세로. 라멘 그릇 안만 화면 가득, 반숙 달걀 단면을 가운데와 아래에, 젓가락이 위에서 세로선. 위에서 살짝 기울여 그릇 테두리 무늬가 위 가장자리에만 보이게.",
+   "img": "refs/img/11872321.jpg",
+   "source": "https://www.pexels.com/photo/11872321/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "12322407",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "bowl",
+    "noodle",
+    "dessert",
+    "cake",
+    "plate"
+   ],
+   "tag": "디저트 낮은 45도",
+   "desc": "세로. 푸딩을 왼쪽 위에 두고 넓은 접시 소스가 아래로 퍼짐. 낮은 45도로 가까이, 배경은 밝은 벽으로 흐리게. 창가 옆빛.",
+   "img": "refs/img/12322407.jpg",
+   "source": "https://www.pexels.com/photo/12322407/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "16671586",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "bowl",
+    "noodle",
+    "dessert",
+    "cake",
+    "plate"
+   ],
+   "tag": "면 들어올리기",
+   "desc": "가로. 그릇을 아래 중앙, 젓가락으로 든 면을 위로 길게 세워 세로선. 배경은 검은 천으로 어둡게, 옆에서 빛 하나로 김이 보이게.",
+   "img": "refs/img/16671586.jpg",
+   "source": "https://www.pexels.com/photo/16671586/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "6133313",
+   "scene": "food",
+   "keywords": [
+    "food",
+    "dish",
+    "bowl",
+    "noodle",
+    "dessert",
+    "cake",
+    "plate"
+   ],
+   "tag": "케이크 단면",
+   "desc": "세로. 자른 케이크 단면이 보이게 오른쪽 위 조각, 왼쪽 아래 남은 케이크로 앞뒤 깊이. 어두운 배경, 눈높이보다 조금 높게 측면에서.",
+   "img": "refs/img/6133313.jpg",
+   "source": "https://www.pexels.com/photo/6133313/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "10994883",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "silhouette",
+    "sun",
+    "person",
+    "beach"
+   ],
+   "tag": "팔 벌리기",
+   "desc": "세로. 인물을 가운데 조금 왼쪽, 해를 겨드랑이 옆에 두고 팔을 활짝. 아래 1/3은 역광 풀밭이 빛남. 쪼그려 앉아 낮은 각도로 하늘을 넓게.",
+   "img": "refs/img/10994883.jpg",
+   "source": "https://www.pexels.com/photo/10994883/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "11034720",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "silhouette",
+    "sun",
+    "person",
+    "beach"
+   ],
+   "tag": "나란히 앉기",
+   "desc": "세로. 앉은 두 사람 뒷모습을 아래 1/3 가운데에 검게, 위로 해와 물 위 빛길이 이어짐. 뒤에서 앉은 눈높이로, 해를 머리 위 중앙에 맞추기.",
+   "img": "refs/img/11034720.jpg",
+   "source": "https://www.pexels.com/photo/11034720/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "1118871",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "silhouette",
+    "sun",
+    "person",
+    "beach"
+   ],
+   "tag": "언덕 옆선",
+   "desc": "가로. 언덕 능선을 아래 1/5에 검게, 오른쪽 1/3에 인물 옆모습 실루엣을 작게. 해가 진 직후 주황 하늘을 꽉 채움. 낮게 앉아 인물이 하늘에 걸리게.",
+   "img": "refs/img/1118871.jpg",
+   "source": "https://www.pexels.com/photo/1118871/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "9169511",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "silhouette",
+    "sun",
+    "person",
+    "beach"
+   ],
+   "tag": "어깨 실루엣",
+   "desc": "가로. 인물 뒷모습 머리·어깨를 아래 가운데에 크게, 머리 뒤로 해가 막 진 노란 띠와 위쪽 청록 하늘. 해 진 뒤 10분, 산 능선과 머리가 겹치지 않게.",
+   "img": "refs/img/9169511.jpg",
+   "source": "https://www.pexels.com/photo/9169511/",
+   "credit": "Pexels"
+  },
+  {
+   "id": "30482170",
+   "scene": "sunset_silhouette",
+   "keywords": [
+    "sunset",
+    "sky",
+    "silhouette",
+    "sun",
+    "person",
+    "beach"
+   ],
+   "tag": "해변 춤",
+   "desc": "세로. 손잡고 도는 두 사람을 오른쪽 1/3에 작게, 왼쪽에 지는 해. 아래 절반은 젖은 모래의 반사. 멀리 떨어져 2배 줌, 수평선을 가운데보다 위에.",
+   "img": "refs/img/30482170.jpg",
+   "source": "https://www.pexels.com/photo/30482170/",
    "credit": "Pexels"
   }
  ]
